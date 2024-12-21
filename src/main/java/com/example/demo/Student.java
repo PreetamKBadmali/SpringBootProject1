@@ -5,7 +5,7 @@ private String name;
 
 private int num;
 private String address;
-private String address2;
+
 
 public String getName() {
 	return name;
