@@ -15,6 +15,8 @@ public class StudentController {
 @GetMapping("/getData")
 //http://localhost:8080/student/getData
 //http://localhost:8080/student/getData
+//http://localhost:8080/student/getData
+//http://localhost:8080/student/getData
 public String getUser() {
  return"student details";
 }
